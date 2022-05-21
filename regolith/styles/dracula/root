@@ -1,0 +1,24 @@
+regolith.look: dracula
+
+! -- Styles - Colors
+#include "/etc/regolith/styles/dracula/color"
+
+! -- Styles - Fonts
+#include "/etc/regolith/styles/dracula/typeface"
+
+! -- Styles - Theme
+#include "/etc/regolith/styles/dracula/theme"
+
+! -- Applications
+! These files map values defined above into specific app settings.
+#include "/etc/regolith/styles/dracula/st-term"
+#include "/etc/regolith/styles/dracula/i3-wm"
+#include "/etc/regolith/styles/i3xrocks"
+#include "/etc/regolith/styles/rofi"
+#include "/etc/regolith/styles/gnome"
+i3-wm.workspace.01.name: 1: 1: Brave
+i3-wm.workspace.02.name: 2: 2: Terminal
+i3-wm.workspace.03.name: 3: 3: Code
+i3-wm.workspace.04.name: 4: 4: Firefox
+i3-wm.workspace.08.name: 8: 8: Music
+i3-wm.workspace.09.name: 9: 9: Comms
