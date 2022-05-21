@@ -1,0 +1,6 @@
+[docker]
+command=/usr/share/i3xrocks/docker
+align=left
+color=#0db7ed
+interval=10
+LABEL=🐳 

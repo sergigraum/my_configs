@@ -1,0 +1,11 @@
+[calendar]
+command=/usr/share/i3xrocks/calendar
+interval=10
+align=center
+min_wdith=500
+LABEL= 
+#DATEFMT=+%H:%M
+SHORTFMT=+%H:%M
+HEIGHT=180
+WIDTH=220
+separator_block_width=350

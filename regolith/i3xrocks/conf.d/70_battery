@@ -1,0 +1,3 @@
+# Date Time
+[battery]
+interval=xresource:i3xrocks.battery.interval 10
